@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hibernatecfg/hibernatecfg.iml" filepath="$PROJECT_DIR$/hibernatecfg/hibernatecfg.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-hibernate.iml" filepath="$PROJECT_DIR$/simple-hibernate.iml" />
     </modules>
   </component>
